@@ -6,6 +6,11 @@ LSUN Cat dataset: http://complexity.cecs.ucf.edu/lsun/
 Original Paper and Repository: https://github.com/NVlabs/stylegan#resources
 
 
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
 A Style-Based Generator Architecture for Generative Adversarial Networks
 Tero Karras (NVIDIA), Samuli Laine (NVIDIA), Timo Aila (NVIDIA)
 https://arxiv.org/abs/1812.04948
